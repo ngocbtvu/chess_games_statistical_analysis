@@ -24,7 +24,7 @@ sns.set_style("whitegrid")
 # In[31]:
 
 
-df=pd.read_csv("C:\\Users\\phamt\\Downloads\\OneDrive\\Documents\\Python\\chess_prj\\chess_games.csv",index_col=["game_id"])
+df=pd.read_csv("...\\chess_games.csv",index_col=["game_id"])
 df.head(3)
 
 
