@@ -1,3 +1,2 @@
-# chess_games_statistical_analysis
+# Chess Games Statistical Analysis
 
-# <h1><center><style="color: green">Data Overview</style></center></h1>
